@@ -24,9 +24,6 @@ The dataset is divided into **four primary** components:
 ### training_data.txt: 
 The dataset used for fine-tuning the language model.
 
-### processed_data.csv: 
-Preprocessed data used for training.
-
 
 ## Acknowledgments
 This project was developed using the **transformers** library by **Hugging Face**.
